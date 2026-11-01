@@ -14,3 +14,6 @@ Just a quick reverse engineering project of the IMVU Next & Classic clients to a
 
 
 Discord: ``wzrd0001``
+
+
+<img width="288" height="357" alt="image" src="https://github.com/user-attachments/assets/a85e6049-5783-4226-bcff-f0a3dd6e0128" />
