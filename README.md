@@ -11,3 +11,6 @@ Just a quick reverse engineering project of the IMVU Next & Classic clients to a
 - Displays when you're in Shop, Inventory, or Rooms on Discord
 - Supports IMVU Next & Classic, although I **HIGHLY RECOMMEND NOT** to play IMVU Classic. I have found **SEVERE security risks** in Classic. Anyone else who seriously knows what they're doing, can do some weird shit to your device while IMVU Classic is running.
 - Developed on IMVU Next Client Ver. ``15.6.1``  & IMVU Classic Client Ver.``554.8`` but should work on future/prior versions.
+
+
+Discord: ``wzrd0001``
