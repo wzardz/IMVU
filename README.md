@@ -17,3 +17,7 @@ Discord: ``wzrd0001``
 
 
 <img width="288" height="357" alt="image" src="https://github.com/user-attachments/assets/a85e6049-5783-4226-bcff-f0a3dd6e0128" />
+<img width="1833" height="896" alt="image" src="https://github.com/user-attachments/assets/94df7431-9e9b-4153-99d2-c7c3c77a8b3d" />
+
+
+VirusTotal scan results for those who care: https://www.virustotal.com/gui/file/4791d3bc4ac46477eac8688ab11a342e5c8337f53d0b10f9a9fbf769ce724f1e?nocache=1
